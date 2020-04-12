@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CLBS</string>
+    <string name="longtitude">经度</string>
+    <string name="latitude">纬度</string>
+</resources>
